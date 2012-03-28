@@ -1,0 +1,5 @@
+name: TNTScream
+version: 0.40
+description: cancels TNT and other block placements with global warning message!
+main: me.never2nv.tntscream.TNTScream
+author: never2nv
