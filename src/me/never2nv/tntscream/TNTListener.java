@@ -10,6 +10,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.ExplosionPrimeEvent;
 
+
 public class TNTListener implements Listener {
 
 	@EventHandler(priority = EventPriority.HIGH)
